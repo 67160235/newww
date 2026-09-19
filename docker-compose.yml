@@ -1,9 +1,7 @@
-version: '3.8'
-
 services:
   # บริการ Backend API
   api:
-    build: ./backend
+    build: .
     container_name: hvacr-api
     ports:
       - "3000:3000"
