@@ -42,3 +42,5 @@
 2. เปิด Terminal ในโฟลเดอร์โปรเจกต์ แล้วรันคำสั่ง:
    ```bash
    docker-compose up -d --build
+
+📐 ดู Microservices Architecture และ Technology Stack ได้ที่ [ARCHITECTURE.md](./ARCHITECTURE.md)
